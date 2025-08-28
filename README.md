@@ -2,6 +2,8 @@
 <h3 align="center">Versatile developer with experience in building web applications and database-driven systems. Strong problem-solving abilities, efficient backend logic, and expertise in creating responsive, user-friendly interfaces. Passionate about optimizing performance and ensuring seamless application functionality</h3>
 
 - 📫 How to reach me **gkshitij0510@gmail.com**
+- ![Profile views](https://komarev.com/ghpvc/?username=kkkshitij01&color=blueviolet)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
