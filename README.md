@@ -2,7 +2,7 @@
 <h3 align="center">Versatile developer with experience in building web applications and database-driven systems. Strong problem-solving abilities, efficient backend logic, and expertise in creating responsive, user-friendly interfaces. Passionate about optimizing performance and ensuring seamless application functionality</h3>
 
 - 📫 How to reach me **gkshitij0510@gmail.com**
-- 🌐 LeetCode: [kkkshitij_](https://leetcode.com/u/kkkshitij_/)  
+- 🌐 LeetCode: [![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/u/kkkshitij_/)
 - ![Profile views](https://komarev.com/ghpvc/?username=kkkshitij01&color=blueviolet)
 
 
