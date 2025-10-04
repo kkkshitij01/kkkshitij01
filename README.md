@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **gkshitij0510@gmail.com**
 - 🌐 LeetCode: <a href="https://leetcode.com/u/kkkshitij_/" target="_blank">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png](https://www.google.com/imgres?q=leetcode%20image&imgurl=https%3A%2F%2Fleetcode.com%2Fstatic%2Fimages%2FLeetCode_logo_rvs.png&imgrefurl=https%3A%2F%2Fleetcode.com%2F&docid=FvKQ9IiC6zPktM&tbnid=rGLblFUwApUhUM&vet=12ahUKEwiM4oigg4qQAxX5UGwGHXf7LFgQM3oECBkQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwiM4oigg4qQAxX5UGwGHXf7LFgQM3oECBkQAA)" alt="LeetCode" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png](https://www.google.com/imgres?q=leetcode%20image&imgurl=https%3A%2F%2Fleetcode.com%2Fstatic%2Fimages%2FLeetCode_logo_rvs.png&imgrefurl=https%3A%2F%2Fleetcode.com%2F&docid=FvKQ9IiC6zPktM&tbnid=rGLblFUwApUhUM&vet=12ahUKEwiM4oigg4qQAxX5UGwGHXf7LFgQM3oECBkQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwiM4oigg4qQAxX5UGwGHXf7LFgQM3oECBkQAA)" alt="LeetCode" width="50"/>
 </a>
 
 - ![Profile views](https://komarev.com/ghpvc/?username=kkkshitij01&color=blueviolet)
