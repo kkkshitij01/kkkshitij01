@@ -1,13 +1,22 @@
 <h1 align="center">Hi 👋, I'm Kshitij</h1>
-<h3 align="center">Versatile developer with experience in building web applications and database-driven systems. Strong problem-solving abilities, efficient backend logic, and expertise in creating responsive, user-friendly interfaces. Passionate about optimizing performance and ensuring seamless application functionality</h3>
+<h3 align="center">
+  Versatile developer with experience in building web applications and database-driven systems.  
+  Strong problem-solving abilities, efficient backend logic, and expertise in creating responsive, user-friendly interfaces.  
+  Passionate about optimizing performance and ensuring seamless application functionality.
+</h3>
 
-- 📫 How to reach me **gkshitij0510@gmail.com**
-- 🌐 LeetCode: <a href="https://leetcode.com/u/kkkshitij_/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png](https://www.google.com/imgres?q=leetcode%20image&imgurl=https%3A%2F%2Fleetcode.com%2Fstatic%2Fimages%2FLeetCode_logo_rvs.png&imgrefurl=https%3A%2F%2Fleetcode.com%2F&docid=FvKQ9IiC6zPktM&tbnid=rGLblFUwApUhUM&vet=12ahUKEwiM4oigg4qQAxX5UGwGHXf7LFgQM3oECBkQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwiM4oigg4qQAxX5UGwGHXf7LFgQM3oECBkQAA)" alt="LeetCode" width="50"/>
-</a>
+---
 
-- ![Profile views](https://komarev.com/ghpvc/?username=kkkshitij01&color=blueviolet)
+- 📫 How to reach me: **gkshitij0510@gmail.com**  
 
+- 🌐 LeetCode:  
+  <a href="https://leetcode.com/u/kkkshitij_/" target="_blank">
+    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="50"/>
+  </a>  
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=kkkshitij01&color=blueviolet)
 
 
 
