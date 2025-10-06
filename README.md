@@ -8,10 +8,14 @@
 ---
 
 - 📫 How to reach me: **gkshitij0510@gmail.com**  
+### Connect with me 🤝  
+<a href="https://www.linkedin.com/in/kkkkshitij/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
 
 - 🌐 LeetCode:  
   <a href="https://leetcode.com/u/kkkshitij_/" target="_blank">
-    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="50"/>
+    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="40"/>
   </a>  
 
 ---
