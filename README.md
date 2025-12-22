@@ -23,6 +23,10 @@
   <a href="https://leetcode.com/u/kkkshitij_/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
   </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://takeuforward.org/profile/gkshitijad@gmail.com" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTULhVCb8NKiiJfSGdlimR861uE_LaVwgKf5Q&s" alt="takeUforward" width="36" height="36"/>
+  </a>
 </p>
 
 <p align="center">
